@@ -35,6 +35,7 @@ public class PokerHub extends Hub {
 		super(port);
 	}
 
+	
 	protected void playerConnected(int playerID) {
 
 		if (playerID == 2) {

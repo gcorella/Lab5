@@ -20,6 +20,7 @@ import pkgPokerEnum.eAction;
 
 public class ClientServerStartController implements Initializable {
 
+	
 	@FXML
 	private TextField txtPlayerName;
 	@FXML

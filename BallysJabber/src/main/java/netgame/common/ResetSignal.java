@@ -7,3 +7,4 @@ package netgame.common;
  */
 class ResetSignal {
 }
+

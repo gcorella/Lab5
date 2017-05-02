@@ -2,6 +2,7 @@ package netgame.common;
 
 import java.io.Serializable;
 
+
 /**
  * A DisconnectMesaage is sent from a Client to the Hub when that
  * client wants to disconnect.  A DisconnectMessage is also sent from

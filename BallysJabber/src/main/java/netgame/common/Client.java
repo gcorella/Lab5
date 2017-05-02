@@ -8,6 +8,7 @@ import java.net.Socket;
 import java.util.concurrent.LinkedBlockingQueue;
 
 
+
 /**
  * This abstract class represents a Client, or Player, that can connect
  * to a netgame Hub.  The client is used for sending messages to the

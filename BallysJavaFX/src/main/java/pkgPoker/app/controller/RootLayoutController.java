@@ -34,6 +34,7 @@ import pkgPokerEnum.eSuit;
  */
 public class RootLayoutController implements Initializable {
 
+	
 	// Reference to the main application
 	private MainApp mainApp;
 

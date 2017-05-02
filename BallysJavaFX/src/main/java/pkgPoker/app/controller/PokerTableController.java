@@ -31,6 +31,7 @@ import pkgPokerBLL.Table;
 
 public class PokerTableController implements Initializable {
 
+	
 	// Reference to the main application.
 	private MainApp mainApp;
 
