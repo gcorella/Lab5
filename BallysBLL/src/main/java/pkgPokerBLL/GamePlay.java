@@ -31,6 +31,7 @@ public class GamePlay implements Serializable {
 	private Player PlayerNextToAct = null;
 	private eDrawCount eDrawCountLast;
 	private eGameState eGameState;
+	
 
 	public GamePlay(Rule rle, UUID GameDealerID) {
 		this.setGameID(UUID.randomUUID());

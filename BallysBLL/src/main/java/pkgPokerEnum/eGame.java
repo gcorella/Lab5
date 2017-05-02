@@ -5,6 +5,7 @@ import java.util.Map;
 
 public enum eGame {
 
+	
 	FiveStud(1, false) {
 		@Override
 		public String toString() {

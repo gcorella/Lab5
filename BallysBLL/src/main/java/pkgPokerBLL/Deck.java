@@ -25,6 +25,7 @@ public class Deck {
 		}
 		Collections.shuffle(DeckCards);
 	}
+	
 
 	public Deck(int iNbrOfJokers) {
 		this();

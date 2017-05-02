@@ -15,6 +15,7 @@ public class Card implements Comparable {
 	public Card() {
 	}
 
+	
 	public Card(eRank eRank, eSuit eSuit, int iCardNbr) {
 		this.eRank = eRank;
 		this.eSuit = eSuit;

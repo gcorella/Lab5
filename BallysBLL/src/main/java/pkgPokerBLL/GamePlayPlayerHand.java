@@ -19,6 +19,7 @@ public class GamePlayPlayerHand {
 		return game;
 	}
 
+	
 	public void setGame(GamePlay game) {
 		this.game = game;
 	}

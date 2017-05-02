@@ -29,4 +29,5 @@ public class CardDraw implements Serializable {
 	}
 	
 	
+	
 }

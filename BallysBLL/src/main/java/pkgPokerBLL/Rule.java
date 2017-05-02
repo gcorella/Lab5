@@ -17,6 +17,7 @@ import pkgPokerEnum.eSuit;
 
 public class Rule implements Serializable {
 
+	
 		private int MaxNumberOfPlayers;
 		private int PlayerNumberOfCards;
 		private int NumberOfJokers;
