@@ -69,6 +69,7 @@ public class RootLayoutController implements Initializable {
 		return strBeingID;
 	}
 	
+	
 	public void initialize(URL location, ResourceBundle resources) {
 
 		BuildMenus();
