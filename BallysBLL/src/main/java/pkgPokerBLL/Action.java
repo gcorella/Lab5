@@ -17,6 +17,7 @@ public class Action implements Serializable {
 	@XmlElement
 	private eAction eAction;
 
+	
 	@XmlElement
 	private Player ActPlayer;
 	

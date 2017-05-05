@@ -2,7 +2,6 @@ package netgame.common;
 
 import java.io.Serializable;
 
-
 /**
  * The Hub sends a StatusMessage to all connected clients when
  * a player connects or disconnects.  When a player connects,
@@ -23,6 +22,7 @@ final class StatusMessage implements Serializable {
      */
     public final int playerID;
 
+    
     /**
      * True if the player has just connected; false if the player
      * has just disconnected.

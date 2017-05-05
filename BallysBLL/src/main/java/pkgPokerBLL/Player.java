@@ -21,6 +21,7 @@ public class Player implements Serializable {
 		this.iPokerClientID = iPokerClientID;
 	}
 	
+	
 	public Player(String playerName) {
 		super();
 		PlayerID = UUID.randomUUID();

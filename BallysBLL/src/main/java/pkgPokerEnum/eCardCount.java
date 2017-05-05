@@ -13,3 +13,4 @@ public enum eCardCount {
 		return CardCount;
 	}
 }
+

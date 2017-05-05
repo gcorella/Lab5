@@ -36,6 +36,7 @@ public class ClientServerStartController implements Initializable {
 
 	private MainApp mainApp;
 
+	
 	@Override
 	public void initialize(URL arg0, ResourceBundle arg1) {
 		//	This is the crazy way you have to code to make an item

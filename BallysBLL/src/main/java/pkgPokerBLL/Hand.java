@@ -27,6 +27,7 @@ public class Hand {
 	}
 	
 	
+	
 	public Hand(Player handPlayer, UUID HandID) {
 		
 		this.HandId = (HandID == null) ? UUID.randomUUID() : HandID;		

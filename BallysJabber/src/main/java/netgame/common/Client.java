@@ -51,6 +51,7 @@ abstract public class Client {
      */
     private volatile boolean autoreset;
     
+    
     /**
      * Constructor opens a connection to a Hub.  This constructor will 
      * block while waiting for the connection to be established.

@@ -48,6 +48,7 @@ public class PokerTableController implements Initializable {
 	@FXML
 	private Label lblPlayerPos2;
 
+	
 	@FXML
 	private ImageView imgViewDealerButtonPos1;
 	@FXML

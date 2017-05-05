@@ -23,6 +23,7 @@ public class Table implements Serializable {
 		return this;
 	}
 
+	
 	public Table RemovePlayerFromTable(Player p) {
 		hmPlayer.remove(p.getPlayerID());
 		return this;

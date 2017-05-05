@@ -43,6 +43,7 @@ public class PokerHub extends Hub {
 		}
 	}
 
+	
 	protected void playerDisconnected(int playerID) {
 		shutDownHub();
 	}

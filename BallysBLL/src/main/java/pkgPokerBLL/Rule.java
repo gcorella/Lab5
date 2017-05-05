@@ -32,6 +32,7 @@ public class Rule implements Serializable {
 		private LinkedList<CardDraw> CardDraw = new LinkedList<CardDraw>();
 		private eGame Game;
 
+		
 		public Rule(eGame gme) {
 			this.Game = gme;
 			switch (gme) {

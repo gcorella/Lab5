@@ -20,6 +20,7 @@ public class GamePlayPlayerHand {
 	}
 
 	
+	
 	public void setGame(GamePlay game) {
 		this.game = game;
 	}

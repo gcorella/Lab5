@@ -8,7 +8,6 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 
-
 /**
  * A Hub is a server for a "netgame".  When a Hub is created, it will
  * listen for connection requests from clients on a specified port.

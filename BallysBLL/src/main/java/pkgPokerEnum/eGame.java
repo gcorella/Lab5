@@ -84,6 +84,7 @@ public enum eGame {
 		return gameNbr;
 	}
 	
+	
 	public boolean getDefault(){
 		return this.bDefault;
 	}

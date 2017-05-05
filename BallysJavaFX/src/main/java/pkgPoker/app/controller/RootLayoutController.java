@@ -45,6 +45,7 @@ public class RootLayoutController implements Initializable {
 	private Menu mnuGame;
 
 
+	
 	public String getRuleName()
 	{	
 		String strBeingID = null;
